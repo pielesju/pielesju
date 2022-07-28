@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m @pielesju (Julian)
+I’m @pielesju (Julian Pieles)
 - 👀 I’m interested in lowlevel programming with C as well as
      Game Development.
 - I also like tinkering with my GNU System
