@@ -3,6 +3,14 @@
 I'm a junior software developer based in Freiburg Germany.
 Currently i work within the Jakarta EE ecosystem and develop automation solutions (DevOps).
 
+#### Current skillset
+- Java
+- C
+- Python
+- Linux, Bash
+- Ansible
+- Docker
+
 ### My current "Pet Projects" 👨‍💻
 
 #### [C74](https://github.com/pielesju/tce8)
