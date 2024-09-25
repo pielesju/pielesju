@@ -4,12 +4,8 @@ I'm a junior software developer based in Freiburg Germany.
 Currently i work within the Jakarta EE ecosystem and develop automation solutions (DevOps).
 
 #### Current skillset
-- Java
-- C
-- Python
-- Linux, Bash
-- Ansible
-- Docker
+Software: Linux, C, Java, Ansible, Docker
+Hardware: Raspberry Pi, Digital Electronics, PCB Design
 
 ### My current "Pet Projects" 👨‍💻
 
