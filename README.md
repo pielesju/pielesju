@@ -1,7 +1,7 @@
 ### About me 🧑
 
 I'm a junior software developer based in Freiburg Germany.
-Currently i work within the Jakarta EE ecosystem and develop automation solutions (DevOps).
+Currently i work within the Jakarta EE ecosystem and mainly develop automation solutions (DevOps).
 
 #### Current skillset
 **Software**: Linux, C, Java, Ansible, Docker\
