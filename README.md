@@ -14,5 +14,5 @@ I'm building a 8-bit Computer from scratch based around the Texas Instruments 74
 #### [GameBoy Pico](https://github.com/pielesju/gameboy-pico)
 A Raspberry Pi Pico based handheld "game console" with a 8x8 led matrix as a display (former school project).
 I'm planning on doing a second version (GameBoy Pico Advance) with a 320x240 display.
-#### [CED]()
+#### [CED](https://github.com/pielesju/ced)
 The CED (Code EDitor) is a vim like text editor written in c with ncurses.
